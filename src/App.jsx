@@ -159,6 +159,7 @@ const App = () => {
             display: block !important;
             width: 100% !important;
             overflow-x: hidden !important;
+            place-items: normal !important;
           }
         `}
       </style>
